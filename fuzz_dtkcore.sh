@@ -1,0 +1,1 @@
+xfuzz fuzz ./build/dtkcore-target -p dtkcore -m DSettings -i ./dtkcore/tests/data $@
